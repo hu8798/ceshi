@@ -1,0 +1,151 @@
+{
+	"id": "d5be5b54-0ebb-4c14-a672-a55df8c0ecdd",
+	"acceptMappedClaims": null,
+	"accessTokenAcceptedVersion": null,
+	"addIns": [
+		{
+			"id": "a3b40b4f-8edf-490e-9df1-7e66f93912bf",
+			"type": "PrivateCatalogStoreAddIn",
+			"properties": [
+				{
+					"key": "AssetId",
+					"value": "WA104380526"
+				},
+				{
+					"key": "ContentMarket",
+					"value": "en-US"
+				},
+				{
+					"key": "AddInState",
+					"value": "Ok"
+				},
+				{
+					"key": "DefaultStateForUser",
+					"value": "Mandatory"
+				},
+				{
+					"key": "Capabilities",
+					"value": "Read All Document;Send Data"
+				},
+				{
+					"key": "Version",
+					"value": "1.1.0.0"
+				},
+				{
+					"key": "DefaultDisplayName",
+					"value": "Adobe Acrobat for Microsoft Word, Excel, and PowerPoint"
+				},
+				{
+					"key": "DefaultDescription",
+					"value": "Do more with enterprise PDF tools, built right into your favorite Microsoft 365 apps."
+				},
+				{
+					"key": "DefaultIconUrl",
+					"value": "https://store-images.s-microsoft.com/image/apps.832.4553b45a-c9b7-42b8-9c57-e33b57f5df4d.80d83ec3-4ec7-4f7d-b45f-36b1f0c05e78.3d5b10f9-0a9c-4ac1-84fc-b7439dfb4f35.png"
+				},
+				{
+					"key": "ProviderName",
+					"value": "Adobe Inc."
+				},
+				{
+					"key": "InstallTimeAll",
+					"value": "2023-05-11T18:04:04.5854543Z"
+				},
+				{
+					"key": "Supportedclients",
+					"value": "Mac_Excel;15.36.0.0,Win32_Excel;16.0.0.0,WAC_Excel;16.0.0.0,Mac_Word;15.32.0.0,WAC_Word;16.0.0.0,Win32_Word;16.0.0.0,WAC_PowerPoint;16.0.0.0,Win32_PowerPoint;16.0.0.0"
+				}
+			]
+		}
+	],
+	"allowPublicClient": null,
+	"appId": "45950357-e899-4aaf-977f-618ae5961e19",
+	"appRoles": [],
+	"oauth2AllowUrlPathMatching": false,
+	"createdDateTime": "2023-05-11T18:04:04Z",
+	"description": null,
+	"certification": null,
+	"disabledByMicrosoftStatus": null,
+	"groupMembershipClaims": null,
+	"identifierUris": [
+		"https://huwanli.onmicrosoft.com/5b8e205f-5814-4501-af16-f648331d2537"
+	],
+	"informationalUrls": {
+		"termsOfService": null,
+		"support": null,
+		"privacy": null,
+		"marketing": null
+	},
+	"keyCredentials": [],
+	"knownClientApplications": [],
+	"logoUrl": null,
+	"logoutUrl": null,
+	"name": "Adobe Acrobat for Microsoft Word, Excel, and PowerPoint",
+	"notes": null,
+	"oauth2AllowIdTokenImplicitFlow": true,
+	"oauth2AllowImplicitFlow": false,
+	"oauth2Permissions": [
+		{
+			"adminConsentDescription": "Allow the application to access Adobe Acrobat for Microsoft Word, Excel, and PowerPoint on behalf of the signed-in user.",
+			"adminConsentDisplayName": "Access Adobe Acrobat for Microsoft Word, Excel, and PowerPoint",
+			"id": "e9dd9353-884a-47b4-b5d1-371f7d25bfe4",
+			"isEnabled": true,
+			"lang": null,
+			"origin": "Application",
+			"type": "User",
+			"userConsentDescription": "Allow the application to access Adobe Acrobat for Microsoft Word, Excel, and PowerPoint on your behalf.",
+			"userConsentDisplayName": "Access Adobe Acrobat for Microsoft Word, Excel, and PowerPoint",
+			"value": "user_impersonation"
+		}
+	],
+	"oauth2RequirePostResponse": false,
+	"optionalClaims": null,
+	"orgRestrictions": [],
+	"parentalControlSettings": {
+		"countriesBlockedForMinors": [],
+		"legalAgeGroupRule": "Allow"
+	},
+	"passwordCredentials": [
+		{
+			"customKeyIdentifier": null,
+			"endDate": "2025-05-11T16:51:35.767Z",
+			"keyId": "77f49986-e519-42cf-82ac-39d45e96501e",
+			"startDate": "2023-05-12T16:51:35.767Z",
+			"value": null,
+			"createdOn": "2023-05-12T16:51:46.5712956Z",
+			"hint": "BZl",
+			"displayName": "123"
+		}
+	],
+	"preAuthorizedApplications": [],
+	"publisherDomain": "huwanli.onmicrosoft.com",
+	"replyUrlsWithType": [],
+	"requiredResourceAccess": [
+		{
+			"resourceAppId": "00000003-0000-0000-c000-000000000000",
+			"resourceAccess": [
+				{
+					"id": "693c5e45-0940-467d-9b8a-1022fb9d42ef",
+					"type": "Role"
+				},
+				{
+					"id": "6be147d2-ea4f-4b5a-a3fa-3eab6f3c140a",
+					"type": "Role"
+				},
+				{
+					"id": "810c84a8-4a9e-49e6-bf7d-12d183f40d01",
+					"type": "Role"
+				},
+				{
+					"id": "e2a3a72e-5f79-4c64-b1b1-878b674786c9",
+					"type": "Role"
+				}
+			]
+		}
+	],
+	"samlMetadataUrl": null,
+	"signInUrl": null,
+	"signInAudience": "AzureADMyOrg",
+	"tags": [],
+	"tokenEncryptionKeyId": null
+}
